@@ -15,7 +15,7 @@ public class Pallindrome {
              }
              start++;
              end--;
-         }
+         }//Pallindrome Code by thiru
          if(isPalindrome){
              System.out.println("The given String is an Pallindrome");
          }
