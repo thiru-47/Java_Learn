@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// Running Sum of an 1 Dimensional Array
 public class Array_Prob2_Running_Sum {
     static int[] runningSum(int[] nums) {
         int n = nums.length;
