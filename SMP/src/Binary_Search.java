@@ -16,7 +16,7 @@ public class Binary_Search {
             }
             //return -1;
         }
-        return -1;
+        return low;
     }
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
